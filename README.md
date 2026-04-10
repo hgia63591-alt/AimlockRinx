@@ -1,0 +1,2 @@
+# AimlockRinx
+Script aimlock tốt 
